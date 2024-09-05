@@ -5,7 +5,7 @@ In today’s post, I’ll guide you through the process of deploying a Windows S
 
 ## Logical Diagram
 
-![Logical Diagram](INSERT_LOGICAL_DIAGRAM_URL_HERE)
+![Logical Diagram](https://raw.githubusercontent.com/Virus192/Day-5-Deploying-a-Windows-Server-on-Vultr-Cloud/main/images/1_VCKRGZAd1IWFjfHcdCKCDg.png)
 
 ## Step 1: Login to Vultr Cloud
 
