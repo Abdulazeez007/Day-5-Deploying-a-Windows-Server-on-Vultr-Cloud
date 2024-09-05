@@ -32,6 +32,7 @@ After selecting your preferred plan, click on the **Deploy Now** button. The ins
 
 Once the installation is complete, you’ll receive the credentials for your new Windows Server from Vultr Cloud. Use these credentials to log in to your server. Now, your Windows Server is ready and publicly accessible on the internet!
 
+![dashboard](https://raw.githubusercontent.com/Virus192/Day-5-Deploying-a-Windows-Server-on-Vultr-Cloud/main/images/1_NPb1GbgUu3bSInxn7IbKeA.png)
 ## Conclusion
 
 Deploying a Windows Server on Vultr Cloud is a straightforward process that can be completed in just a few minutes. This setup is perfect for those looking to make their server publicly available while keeping costs low.
