@@ -1,5 +1,4 @@
 # Day-5-Deploying-a-Windows-Server-on-Vultr-Cloud
-# Deploying a Windows Server on Vultr Cloud
 
 In today’s post, I’ll guide you through the process of deploying a Windows Server on Vultr Cloud. We’re moving our Windows Server and Ubuntu Server out of VPC 2.0 because we want them to be publicly accessible on the internet. This step-by-step tutorial will show you how to deploy a Windows Server with minimal effort.
 
